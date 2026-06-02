@@ -1,0 +1,9 @@
+company,country,sanctions_hit,governance_score,risk_level,flags
+ROSNEFT,Russia,True,-0.96,CRITICAL,DIRECT SANCTIONS MATCH | HIGH RISK JURISDICTION (score: -0.96)
+Gazprom,Russia,False,-0.96,HIGH,HIGH RISK JURISDICTION (score: -0.96)
+LUKOIL,Russia,True,-0.96,CRITICAL,DIRECT SANCTIONS MATCH | HIGH RISK JURISDICTION (score: -0.96)
+Siemens,Germany,False,1.361,LOW,
+WAGNER GROUP,Russia,True,-0.96,CRITICAL,DIRECT SANCTIONS MATCH | HIGH RISK JURISDICTION (score: -0.96)
+Deutsche Bank,Germany,False,1.361,LOW,
+IRAN AIR,Iran,True,-1.288,CRITICAL,DIRECT SANCTIONS MATCH | HIGH RISK JURISDICTION (score: -1.288)
+Nokia,Finland,False,1.78,LOW,
